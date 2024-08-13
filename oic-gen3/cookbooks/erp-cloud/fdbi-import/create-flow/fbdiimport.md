@@ -39,8 +39,8 @@ This lab assumes you have:
 
 ## Task 1: Create FBDI file
 
-1. [Download the Invoice Import Template Spreadsheet](https://objectstorage.us-ashburn-1.oraclecloud.com/p/yjZGTqJrT6oFrcwctmagBUyk8NtlbVxvhq8Fpo-f0OlVL24IgrT-_AXF-SS8E7Vo/n/c4u04/b/livelabsfiles/o/oic-library/GSEPayablesStandardInvoiceImportTemplate.xlsm)
-2. [Download the APTEST.PROPERTIES file](https://objectstorage.us-ashburn-1.oraclecloud.com/p/yjZGTqJrT6oFrcwctmagBUyk8NtlbVxvhq8Fpo-f0OlVL24IgrT-_AXF-SS8E7Vo/n/c4u04/b/livelabsfiles/o/oic-library/APTEST.PROPERTIES)
+1. [Download the Invoice Import Template Spreadsheet](https://objectstorage.us-phoenix-1.oraclecloud.com/p/sxW1T9NtCqTcShsoT9DaNjfevGMfdAhjiM6JANkCzfAxgis9deO35thw2kxssihF/n/oicpm/b/oiclivelabs/o/oic3/erp-cloud/GSEPayablesStandardInvoiceImportTemplate.xlsm)
+2. [Download the APTEST.PROPERTIES file](https://objectstorage.us-phoenix-1.oraclecloud.com/p/f7qoTTTmQxno5JCwy4eWLjUc6ulF9aXi_VMVg7Q38QJv5-mxP5_5V01D8Jw4SdLK/n/oicpm/b/oiclivelabs/o/oic3/erp-cloud/APTEST.PROPERTIES)
 
 3. Open GSEPayablesStandardInvoiceImportTemplate.xlsm (If you are using Mac, then you need to download the templates from ERP Cloud documentation which are compatible with Mac)
 
@@ -223,7 +223,7 @@ OR you can also track by clicking on ***Design***, ***Observability*** and ***In
 ## Task 10: Verify the Bulk Import
 Wait 5 minutes before performing this procedure.
 1. Open a browser to sign in to the ERP Cloud using the information provided to you.
-2. Click on Navigator Menu(On top lift corner), Click on Payables, click Invoices and Click on the search in the Details panel located below the User menu.
+2. Click on Navigator Menu(On top left corner), Click on Payables, click Invoices and Click on the search in the Details panel located below the User menu.
 3. Enter the invoice number and click search.
 The invoice should appear in the search results.
 4. Congratulations! You have finished your integration flow.
